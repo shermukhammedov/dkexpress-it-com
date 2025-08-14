@@ -23,7 +23,7 @@
                     
                     <div class="space-y-4 mb-8">
                         <p class="text-gray-700 leading-relaxed">
-                            At DExpress LLC, we collect the following types of personal information to provide our car hauling and transportation services:
+                            At DK Express LLC, we collect the following types of personal information to provide our car hauling and transportation services:
                         </p>
                         
                         <h3 class="text-xl font-semibold text-gray-900 mt-6 mb-4">Personal Information</h3>
@@ -120,7 +120,7 @@
                                 <div class="ml-3">
                                     <h3 class="text-lg font-medium text-green-800 mb-2">SMS Consent Policy</h3>
                                     <p class="text-green-700 leading-relaxed">
-                                        <strong>SMS consent is not shared with third parties.</strong> When you provide your phone number and consent to receive SMS messages from DExpress LLC, this consent information is kept strictly confidential and is never shared with third parties or affiliates.
+                                        <strong>SMS consent is not shared with third parties.</strong> When you provide your phone number and consent to receive SMS messages from DK Express LLC, this consent information is kept strictly confidential and is never shared with third parties or affiliates.
                                     </p>
                                 </div>
                             </div>
@@ -216,7 +216,7 @@
                                     <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
                                 </svg>
                                 <span class="font-medium text-gray-900">Email:</span>
-                                <a href="mailto:info@dexpress.com" class="text-blue-600 hover:text-blue-700 ml-2">info@dexpress.com</a>
+                                <a href="mailto:dkxpressllc@gmail.com" class="text-blue-600 hover:text-blue-700 ml-2">dkxpressllc@gmail.com</a>
                             </div>
                             
                             <div class="flex items-center">
@@ -224,7 +224,7 @@
                                     <path d="M20.01 15.38c-1.23 0-2.42-.2-3.53-.56-.35-.12-.74-.03-1.01.24l-1.57 1.97c-2.83-1.35-5.48-3.9-6.89-6.83l1.95-1.66c.27-.28.35-.67.24-1.02-.37-1.11-.56-2.3-.56-3.53 0-.54-.45-.99-.99-.99H4.19C3.65 3 3 3.24 3 3.99 3 13.28 10.73 21 20.01 21c.71 0 .99-.63.99-1.18v-3.45c0-.54-.45-.99-.99-.99z"/>
                                 </svg>
                                 <span class="font-medium text-gray-900">Phone:</span>
-                                <span class="text-gray-700 ml-2">(555) 123-4567</span>
+                                <span class="text-gray-700 ml-2">(630) 242-2090</span>
                             </div>
                             
                             <div class="flex items-start">
@@ -234,7 +234,7 @@
                                 <div>
                                     <span class="font-medium text-gray-900">Address:</span>
                                     <div class="text-gray-700 ml-2">
-                                        DExpress LLC<br>
+                                        DK Express LLC<br>
                                         123 Transport Way<br>
                                         CITY, STATE 12345
                                     </div>

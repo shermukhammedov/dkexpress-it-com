@@ -133,7 +133,7 @@
                         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 16l-4-4m0 0l4-4m-4 4h14m-5 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h7a3 3 0 013 3v1"></path>
                         </svg>
-                        <span>Sign In to DExpress</span>
+                        <span>Sign In to DK Express</span>
                     </div>
                 </button>
             </form>
@@ -142,7 +142,7 @@
             @if (Route::has('register'))
                 <div class="mt-10 text-center">
                     <p class="text-lg text-gray-600 dark:text-gray-400">
-                        New to DExpress? 
+                        New to DK Express? 
                         <a href="{{ route('register') }}" class="font-bold text-blue-600 hover:text-blue-500 dark:text-blue-400 dark:hover:text-blue-300 transition-colors duration-200">
                             Join our fleet
                         </a>

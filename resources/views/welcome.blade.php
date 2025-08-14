@@ -1,4 +1,4 @@
-<x-layouts.landing title="DExpress - Professional Car Hauling Services">
+<x-layouts.landing title="DK Express - Professional Car Hauling Services">
     <!-- Hero Section -->
     <section id="home" class="relative min-h-screen bg-gradient-to-br from-slate-900 via-blue-900 to-indigo-800 text-white overflow-hidden">
         <!-- Background Pattern -->
@@ -14,7 +14,7 @@
                 <div class="space-y-8 animate-fade-in-up">
                     <div class="inline-flex items-center bg-blue-500/20 text-blue-200 px-4 py-2 rounded-full text-sm font-medium backdrop-blur-sm">
                         <span class="w-2 h-2 bg-blue-400 rounded-full mr-2 animate-pulse"></span>
-                        Trusted by 1000+ Customers
+                        Trusted by 500+ Customers
                     </div>
 
                     <h1 class="text-4xl md:text-6xl lg:text-7xl font-black leading-tight">
@@ -65,7 +65,7 @@
                         <!-- Floating Stats -->
                         <div class="absolute -top-4 -right-4 bg-white rounded-2xl p-4 shadow-xl transform rotate-12 animate-float">
                             <div class="text-center">
-                                <div class="text-2xl font-bold text-blue-600">98%</div>
+                                <div class="text-2xl font-bold text-blue-600">99%</div>
                                 <div class="text-xs text-gray-600">Safe Delivery</div>
                             </div>
                         </div>
@@ -179,25 +179,25 @@
             <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
                 <div class="text-center group hover:transform hover:scale-105 transition-all duration-300">
                     <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-6 border border-white/20 group-hover:bg-white/20 transition-all duration-300">
-                        <div class="text-5xl font-black text-white mb-2 group-hover:text-blue-200 transition-colors">1000+</div>
+                        <div class="text-5xl font-black text-white mb-2 group-hover:text-blue-200 transition-colors">500+</div>
                         <div class="text-blue-200 font-medium">Happy Customers</div>
                     </div>
                 </div>
                 <div class="text-center group hover:transform hover:scale-105 transition-all duration-300">
                     <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-6 border border-white/20 group-hover:bg-white/20 transition-all duration-300">
-                        <div class="text-5xl font-black text-white mb-2 group-hover:text-blue-200 transition-colors">50K+</div>
+                        <div class="text-5xl font-black text-white mb-2 group-hover:text-blue-200 transition-colors">10K+</div>
                         <div class="text-blue-200 font-medium">Cars Transported</div>
                     </div>
                 </div>
                 <div class="text-center group hover:transform hover:scale-105 transition-all duration-300">
                     <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-6 border border-white/20 group-hover:bg-white/20 transition-all duration-300">
-                        <div class="text-5xl font-black text-white mb-2 group-hover:text-blue-200 transition-colors">10+</div>
+                        <div class="text-5xl font-black text-white mb-2 group-hover:text-blue-200 transition-colors">2+</div>
                         <div class="text-blue-200 font-medium">Years Experience</div>
                     </div>
                 </div>
                 <div class="text-center group hover:transform hover:scale-105 transition-all duration-300">
                     <div class="bg-white/10 backdrop-blur-sm rounded-2xl p-6 border border-white/20 group-hover:bg-white/20 transition-all duration-300">
-                        <div class="text-5xl font-black text-white mb-2 group-hover:text-blue-200 transition-colors">100%</div>
+                        <div class="text-5xl font-black text-white mb-2 group-hover:text-blue-200 transition-colors">99%</div>
                         <div class="text-blue-200 font-medium">Safe Delivery</div>
                     </div>
                 </div>
@@ -212,7 +212,7 @@
                 <div class="space-y-8">
                     <div class="inline-flex items-center bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-medium">
                         <span class="w-2 h-2 bg-blue-500 rounded-full mr-2"></span>
-                        About DExpress
+                        About DK Express
                     </div>
 
                     <h2 class="text-5xl font-bold text-gray-900 leading-tight">
@@ -221,7 +221,7 @@
 
                     <div class="space-y-6">
                         <p class="text-lg text-gray-600 leading-relaxed">
-                            DExpress is a premier car hauling company specializing in the safe and secure transportation of vehicles across the United States. With over a decade of experience, we understand that your vehicle is more than just transportation—it's an investment and a passion.
+                            DK Express is a premier car hauling company specializing in the safe and secure transportation of vehicles across the United States. Established 2 years ago, we understand that your vehicle is more than just transportation—it's an investment and a passion.
                         </p>
                         <p class="text-lg text-gray-600 leading-relaxed">
                             Our fleet of state-of-the-art car haulers and experienced drivers ensure that your vehicle arrives at its destination in the same condition it left, whether it's a classic car, luxury vehicle, or daily driver.
@@ -321,7 +321,9 @@
                             <div>
                                 <h4 class="text-xl font-bold mb-2 text-blue-300">Phone</h4>
                                 <p class="text-gray-300 text-lg">(630) 242-2090</p>
-                                <p class="text-gray-400">24/7 Customer Support</p>
+                                <p class="text-gray-400">Emergency Line</p>
+                                <p class="text-gray-300 text-lg mt-2">2508 BRUSH RD APT 204</p>
+                                <p class="text-gray-400">SCHAUMBURG, IL 60173</p>
                             </div>
                         </div>
 
@@ -400,7 +402,7 @@
                             </div>
                             <div>
                                 <label class="block text-sm font-semibold mb-3 text-gray-200">Phone</label>
-                                <input type="tel" class="w-full px-4 py-4 rounded-xl bg-white/10 border border-white/20 text-white placeholder-gray-400 focus:border-blue-400 focus:ring-2 focus:ring-blue-400/50 transition-all duration-300 backdrop-blur-sm" placeholder="(555) 123-4567">
+                                <input type="tel" class="w-full px-4 py-4 rounded-xl bg-white/10 border border-white/20 text-white placeholder-gray-400 focus:border-blue-400 focus:ring-2 focus:ring-blue-400/50 transition-all duration-300 backdrop-blur-sm" placeholder="(630) 242-2090">
                             </div>
                         </div>
 

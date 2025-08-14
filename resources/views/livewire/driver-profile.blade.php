@@ -42,7 +42,7 @@
                             </label>
                             <input type="tel" id="phone_number" wire:model="phone_number" 
                                    class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:text-white"
-                                   placeholder="(555) 123-4567">
+                                   placeholder="(630) 242-2090">
                             @error('phone_number') <span class="text-red-500 text-sm">{{ $message }}</span> @enderror
                             <p class="text-xs text-gray-500 dark:text-gray-400 mt-1">
                                 By providing your phone number, you consent to receive SMS updates. See our 

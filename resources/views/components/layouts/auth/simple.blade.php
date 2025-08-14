@@ -8,8 +8,8 @@
             <div class="w-full max-w-2xl">
                 <div class="text-center mb-8">
                     <a href="{{ route('home') }}" class="inline-block" wire:navigate>
-                        <span class="text-3xl font-bold bg-gradient-to-r from-blue-500 to-indigo-600 bg-clip-text text-transparent">DExpress</span>
-                        <span class="sr-only">DExpress</span>
+                        <span class="text-3xl font-bold bg-gradient-to-r from-blue-500 to-indigo-600 bg-clip-text text-transparent">DK Express</span>
+<span class="sr-only">DK Express</span>
                     </a>
                 </div>
                 {{ $slot }}

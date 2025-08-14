@@ -23,7 +23,7 @@
                     
                     <div class="space-y-4 mb-8">
                         <p class="text-gray-700 leading-relaxed">
-                            By accessing and using the services provided by DExpress LLC ("we," "our," or "us"), you agree to be bound by these Terms & Conditions. If you do not agree to these terms, please do not use our services.
+                            By accessing and using the services provided by DK Express LLC ("we," "our," or "us"), you agree to be bound by these Terms & Conditions. If you do not agree to these terms, please do not use our services.
                         </p>
                     </div>
 
@@ -34,7 +34,7 @@
                     
                     <div class="space-y-4 mb-8">
                         <p class="text-gray-700 leading-relaxed">
-                            DExpress LLC provides car hauling and transportation services, including but not limited to:
+                            DK Express LLC provides car hauling and transportation services, including but not limited to:
                         </p>
                         
                         <ul class="list-disc list-inside space-y-2 text-gray-700 ml-4">
@@ -59,7 +59,7 @@
                         <div class="bg-blue-50 border-l-4 border-blue-400 p-6 rounded-lg">
                             <h3 class="text-xl font-semibold text-gray-900 mb-4">SMS Communication Terms</h3>
                             <p class="text-gray-700 leading-relaxed mb-4">
-                                By opting into SMS from a web form or other medium, you are agreeing to receive SMS messages from DExpress LLC. This includes SMS messages for conversations (external).
+                                By opting into SMS from a web form or other medium, you are agreeing to receive SMS messages from DK Express LLC. This includes SMS messages for conversations (external).
                             </p>
                             
                             <h4 class="text-lg font-semibold text-gray-900 mb-3">Types of Messages You May Receive:</h4>
@@ -158,7 +158,7 @@
                     
                     <div class="space-y-4 mb-8">
                         <p class="text-gray-700 leading-relaxed">
-                            DExpress LLC shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, or use, arising out of or relating to these terms or your use of our services. Our liability is limited to the actual value of the vehicle being transported.
+                            DK Express LLC shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, or use, arising out of or relating to these terms or your use of our services. Our liability is limited to the actual value of the vehicle being transported.
                         </p>
                     </div>
 
@@ -197,9 +197,9 @@
                         <div class="bg-gray-50 rounded-lg p-6">
                             <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                                 <div>
-                                    <h4 class="font-semibold text-gray-900 mb-2">DExpress LLC</h4>
-                                    <p class="text-gray-700">Email: info@dexpress.com</p>
-                                    <p class="text-gray-700">Phone: (555) 123-4567</p>
+                                    <h4 class="font-semibold text-gray-900 mb-2">DK Express LLC</h4>
+<p class="text-gray-700">Email: dkxpressllc@gmail.com</p>
+                                    <p class="text-gray-700">Phone: (630) 242-2090</p>
                                 </div>
                                 <div>
                                     <h4 class="font-semibold text-gray-900 mb-2">SMS Support</h4>
@@ -212,7 +212,7 @@
 
                     <div class="border-t border-gray-200 pt-8 mt-12">
                         <p class="text-sm text-gray-500 text-center">
-                            © {{ date('Y') }} DExpress LLC. All rights reserved.
+                            © {{ date('Y') }} DK Express LLC. All rights reserved.
                         </p>
                     </div>
                 </div>

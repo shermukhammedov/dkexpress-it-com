@@ -7,7 +7,7 @@
             </svg>
         </div>
         <h1 class="text-4xl font-bold text-gray-900 mb-3">Join Our Fleet</h1>
-        <p class="text-lg text-gray-600">Start your car hauling journey with DExpress</p>
+        <p class="text-lg text-gray-600">Start your car hauling journey with DK Express</p>
     </div>
 
     <!-- Registration Card -->
@@ -249,7 +249,7 @@
                         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3a2 2 0 012-2h4a2 2 0 012 2v4m-6 0h6M9 21v-4a2 2 0 012-2h2a2 2 0 012 2v4M5 11V9a4 4 0 014-4h6a4 4 0 014 4v2"></path>
                         </svg>
-                        <span>Join DExpress Fleet</span>
+                        <span>Join DK Express Fleet</span>
                     </div>
                 </button>
             </form>

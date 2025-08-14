@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ $title ?? 'DExpress - Professional Car Hauling Services' }}</title>
+    <title>{{ $title ?? 'DK Express - Professional Car Hauling Services' }}</title>
 
     <link rel="icon" href="/favicon.ico" sizes="any">
     <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -70,7 +70,7 @@
             <div class="flex items-center group">
                 <a href="/" class="flex items-center transform hover:scale-105 transition-all duration-300">
                     <div class="text-3xl font-black bg-gradient-to-r from-blue-600 to-indigo-800 bg-clip-text text-transparent">
-                        DExpress
+                        DK Express
                     </div>
                 </a>
             </div>
@@ -179,7 +179,7 @@
             <div class="lg:col-span-2">
                 <div class="flex items-center mb-6 group">
                     <h3 class="text-3xl font-black bg-gradient-to-r from-blue-300 to-blue-500 bg-clip-text text-transparent">
-                        DExpress
+                        DK Express
                     </h3>
                 </div>
                 <p class="text-gray-300 text-lg leading-relaxed mb-8 max-w-md">
@@ -267,7 +267,7 @@
                             </svg>
                         </div>
                         <div>
-                            <p class="text-gray-300 font-medium">info@dexpress.com</p>
+                            <p class="text-gray-300 font-medium">dkxpressllc@gmail.com</p>
                             <p class="text-gray-500 text-sm">24/7 Support</p>
                         </div>
                     </div>
@@ -279,7 +279,7 @@
                             </svg>
                         </div>
                         <div>
-                            <p class="text-gray-300 font-medium">(555) 123-4567</p>
+                            <p class="text-gray-300 font-medium">(630) 242-2090</p>
                             <p class="text-gray-500 text-sm">Emergency Line</p>
                         </div>
                     </div>
@@ -291,8 +291,8 @@
                             </svg>
                         </div>
                         <div>
-                            <p class="text-gray-300 font-medium">123 Transport Way</p>
-                            <p class="text-gray-500 text-sm">CITY, STATE 12345</p>
+                            <p class="text-gray-300 font-medium">2508 BRUSH RD APT 204</p>
+                            <p class="text-gray-500 text-sm">SCHAUMBURG, IL 60173</p>
                         </div>
                     </div>
                 </div>
@@ -303,7 +303,7 @@
         <div class="bg-gradient-to-r from-blue-500/20 to-blue-700/20 backdrop-blur-sm rounded-2xl p-8 mb-12 border border-blue-500/30">
             <div class="text-center mb-6">
                 <h4 class="text-2xl font-bold text-blue-300 mb-2">Stay Updated</h4>
-                <p class="text-gray-300">Get the latest news and updates from DExpress</p>
+                <p class="text-gray-300">Get the latest news and updates from DK Express</p>
             </div>
             <div class="flex flex-col sm:flex-row gap-4 max-w-md mx-auto">
                 <input type="email" placeholder="Enter your email" class="flex-1 px-4 py-3 rounded-xl bg-white/10 backdrop-blur-sm border border-white/20 text-white placeholder-gray-300 focus:ring-2 focus:ring-blue-400 focus:border-blue-400 transition-all duration-300" />
@@ -391,11 +391,11 @@
                         Company
                     </h4>
                     <p class="text-gray-400 text-sm leading-relaxed">
-                        DExpress LLC - Professional car hauling services you can trust. Licensed and insured for your peace of mind.
+                        DK Express LLC - Professional car hauling services you can trust. Licensed and insured for your peace of mind.
                     </p>
                     <div class="text-sm text-gray-500">
-                        <p>DOT #: 1234567</p>
-                        <p>MC #: 9876543</p>
+                        <p>DOT #: 4161653</p>
+                        <p>MC #: 1599328</p>
                     </div>
                 </div>
             </div>
@@ -403,7 +403,7 @@
             <!-- Copyright -->
             <div class="border-t border-white/10 pt-8 text-center">
                 <p class="text-gray-400 text-sm">
-                    © {{ date('Y') }} DExpress LLC. All rights reserved. | 
+                    © {{ date('Y') }} DK Express LLC. All rights reserved. | 
                     <a href="{{ route('privacy.policy') }}" class="text-blue-400 hover:text-blue-300 transition-colors">Privacy Policy</a> | 
                     <a href="{{ route('terms.conditions') }}" class="text-blue-400 hover:text-blue-300 transition-colors">Terms & Conditions</a>
                 </p>
