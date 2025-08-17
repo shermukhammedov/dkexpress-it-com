@@ -291,8 +291,7 @@
                             </svg>
                         </div>
                         <div>
-                            <p class="text-gray-300 font-medium">2508 BRUSH RD APT 204</p>
-                            <p class="text-gray-500 text-sm">SCHAUMBURG, IL 60173</p>
+                            <p class="text-gray-300 font-medium">1147 Brook Forest Ave, Shorewood, IL 60404</p>
                         </div>
                     </div>
                 </div>

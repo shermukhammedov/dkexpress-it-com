@@ -322,8 +322,6 @@
                                 <h4 class="text-xl font-bold mb-2 text-blue-300">Phone</h4>
                                 <p class="text-gray-300 text-lg">(630) 242-2090</p>
                                 <p class="text-gray-400">Emergency Line</p>
-                                <p class="text-gray-300 text-lg mt-2">2508 BRUSH RD APT 204</p>
-                                <p class="text-gray-400">SCHAUMBURG, IL 60173</p>
                             </div>
                         </div>
 
@@ -347,9 +345,8 @@
                                 </svg>
                             </div>
                             <div>
-                                <h4 class="text-xl font-bold mb-2 text-purple-300">Physical Address</h4>
-                                <p class="text-gray-300 text-lg">2508 BRUSH RD APT 204</p>
-                                <p class="text-gray-400">SCHAUMBURG, IL 60173</p>
+                                <h4 class="text-xl font-bold mb-2 text-purple-300">Address</h4>
+                                <p class="text-gray-300 text-lg">1147 Brook Forest Ave, Shorewood, IL 60404</p>
                             </div>
                         </div>
 
@@ -366,18 +363,7 @@
                             </div>
                         </div>
 
-                        <div class="flex items-start group hover:transform hover:scale-105 transition-all duration-300">
-                            <div class="bg-gradient-to-br from-orange-500 to-orange-700 w-16 h-16 rounded-2xl flex items-center justify-center mr-6 group-hover:scale-110 transition-transform duration-300 shadow-lg">
-                                <svg class="w-8 h-8 text-white" fill="currentColor" viewBox="0 0 24 24">
-                                    <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
-                                </svg>
-                            </div>
-                            <div>
-                                <h4 class="text-xl font-bold mb-2 text-orange-300">Mailing Address</h4>
-                                <p class="text-gray-300 text-lg">1147 BROOK FOREST AVE</p>
-                                <p class="text-gray-400">SHOREWOOD, IL 60404</p>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
 

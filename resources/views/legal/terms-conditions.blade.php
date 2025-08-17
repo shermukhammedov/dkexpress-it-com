@@ -9,7 +9,7 @@
                     </svg>
                 </div>
                 <h1 class="text-4xl font-bold text-gray-900 mb-4">Terms & Conditions</h1>
-                <p class="text-lg text-gray-600">Last updated: {{ date('F j, Y') }}</p>
+                <p class="text-lg text-gray-600">Last updated: August 17, 2025</p>
             </div>
 
             <!-- Terms & Conditions Content -->
@@ -59,7 +59,7 @@
                         <div class="bg-blue-50 border-l-4 border-blue-400 p-6 rounded-lg">
                             <h3 class="text-xl font-semibold text-gray-900 mb-4">SMS Communication Terms</h3>
                             <p class="text-gray-700 leading-relaxed mb-4">
-                                By opting into SMS from a web form or other medium, you are agreeing to receive SMS messages from DK Express LLC. This includes SMS messages for conversations (external).
+                                By opting into SMS via a web form, phone number submission, or other method, you consent to receive SMS messages from DK Express LLC. Messages may include transactional notifications, account updates, and service-related information.
                             </p>
                             
                             <h4 class="text-lg font-semibold text-gray-900 mb-3">Types of Messages You May Receive:</h4>
@@ -77,11 +77,19 @@
                             <div class="bg-yellow-50 border border-yellow-200 rounded-lg p-4 mt-4">
                                 <h4 class="text-lg font-semibold text-gray-900 mb-2">Important Information:</h4>
                                 <ul class="space-y-2 text-gray-700">
-                                    <li><strong>Message frequency may vary.</strong></li>
+                                    <li><strong>Message frequency may vary depending on shipments and service activity.</strong></li>
                                     <li><strong>Message and data rates may apply.</strong></li>
-                                    <li><strong>To opt out at any time, text STOP.</strong></li>
-                                    <li><strong>For assistance, text HELP or visit our website at <a href="{{ route('home') }}" class="text-blue-600 hover:text-blue-700 underline">{{ config('app.url') }}</a>.</strong></li>
-                                    <li><strong>Visit <a href="{{ route('privacy.policy') }}" class="text-blue-600 hover:text-blue-700 underline">Privacy Policy</a> for privacy policy and <a href="{{ route('terms.conditions') }}" class="text-blue-600 hover:text-blue-700 underline">Terms & Conditions</a> for Terms of Service.</strong></li>
+                                    <li><strong>To opt out at any time, reply STOP. You will receive a final confirmation message.</strong></li>
+                                    <li><strong>For help, reply HELP or visit our website at <a href="{{ route('home') }}" class="text-blue-600 hover:text-blue-700 underline">https://dkexpress.it.com</a>.</strong></li>
+                                    <li><strong>SMS consent will not be shared, sold, or transferred to third parties.</strong></li>
+                                </ul>
+                            </div>
+                            
+                            <div class="bg-gray-50 border border-gray-200 rounded-lg p-4 mt-4">
+                                <h4 class="text-lg font-semibold text-gray-900 mb-2">Links</h4>
+                                <ul class="space-y-2 text-gray-700">
+                                    <li>For details on how we handle data, see our <a href="{{ route('privacy.policy') }}" class="text-blue-600 hover:text-blue-700 underline">Privacy Policy</a>.</li>
+                                    <li>For general service terms, see these <a href="{{ route('terms.conditions') }}" class="text-blue-600 hover:text-blue-700 underline">Terms & Conditions</a>.</li>
                                 </ul>
                             </div>
                         </div>
@@ -198,11 +206,12 @@
                             <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                                 <div>
                                     <h4 class="font-semibold text-gray-900 mb-2">DK Express LLC</h4>
-<p class="text-gray-700">Email: dkxpressllc@gmail.com</p>
-                                    <p class="text-gray-700">Phone: (630) 242-2090</p>
+                                    <p class="text-gray-700">📧 dkxpressllc@gmail.com</p>
+                                    <p class="text-gray-700">📞 (630) 242-2090</p>
+                                    <p class="text-gray-700">🏢 1147 Brook Forest Ave, Shorewood, IL 60404</p>
                                 </div>
                                 <div>
-                                    <h4 class="font-semibold text-gray-900 mb-2">SMS Support</h4>
+                                    <h4 class="font-semibold text-gray-900 mb-2">SMS Support:</h4>
                                     <p class="text-gray-700">Text HELP for assistance</p>
                                     <p class="text-gray-700">Text STOP to opt out</p>
                                 </div>

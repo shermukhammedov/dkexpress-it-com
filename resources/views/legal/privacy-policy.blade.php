@@ -9,7 +9,7 @@
                     </svg>
                 </div>
                 <h1 class="text-4xl font-bold text-gray-900 mb-4">Privacy Policy</h1>
-                <p class="text-lg text-gray-600">Last updated: {{ date('F j, Y') }}</p>
+                <p class="text-lg text-gray-600">Last updated: August 17, 2025</p>
             </div>
 
             <!-- Privacy Policy Content -->
@@ -119,17 +119,17 @@
                                 </div>
                                 <div class="ml-3">
                                     <h3 class="text-lg font-medium text-green-800 mb-2">SMS Consent Policy</h3>
+                                    <p class="text-green-700 leading-relaxed mb-2">
+                                        <strong>SMS consent is never shared, sold, or transferred to third parties or affiliates.</strong>
+                                    </p>
                                     <p class="text-green-700 leading-relaxed">
-                                        <strong>SMS consent is not shared with third parties.</strong> When you provide your phone number and consent to receive SMS messages from DK Express LLC, this consent information is kept strictly confidential and is never shared with third parties or affiliates.
+                                        When you provide your phone number and consent to receive SMS messages from DK Express LLC, this information is kept strictly confidential.
                                     </p>
                                 </div>
                             </div>
                         </div>
                         
-                        <p class="text-gray-700 leading-relaxed">
-                            We may send you SMS messages for the following purposes:
-                        </p>
-                        
+                        <h3 class="text-xl font-semibold text-gray-900 mt-6 mb-4">Types of SMS You May Receive:</h3>
                         <ul class="list-disc list-inside space-y-2 text-gray-700 ml-4">
                             <li>Service updates and delivery notifications</li>
                             <li>Vehicle pickup and delivery scheduling</li>
@@ -138,10 +138,22 @@
                             <li>Appointment reminders and scheduling changes</li>
                             <li>Vehicle condition updates and inspection reports</li>
                         </ul>
-                        
-                        <p class="text-gray-700 leading-relaxed">
-                            You can opt out of SMS messages at any time by replying "STOP" to any message or by contacting us directly.
-                        </p>
+                    </div>
+
+                    <h2 class="text-2xl font-bold text-gray-900 mb-6 flex items-center">
+                        <div class="w-1 h-6 bg-gradient-to-b from-blue-400 to-blue-600 rounded-full mr-3"></div>
+                        SMS Opt-Out & Support
+                    </h2>
+                    
+                    <div class="space-y-4 mb-8">
+                        <div class="bg-yellow-50 border-l-4 border-yellow-400 p-6">
+                            <ul class="space-y-3 text-gray-700">
+                                <li><strong>To opt out, reply STOP to any message.</strong> You will receive one final confirmation SMS.</li>
+                                <li><strong>For help, reply HELP</strong> or contact us using the details below.</li>
+                                <li><strong>Message frequency may vary.</strong></li>
+                                <li><strong>Message and data rates may apply.</strong></li>
+                            </ul>
+                        </div>
                     </div>
 
                     <h2 class="text-2xl font-bold text-gray-900 mb-6 flex items-center">
@@ -196,7 +208,7 @@
                     
                     <div class="space-y-4 mb-8">
                         <p class="text-gray-700 leading-relaxed">
-                            We retain your personal information for as long as necessary to provide our services and comply with legal obligations. Vehicle transport records are maintained according to DOT requirements, typically for a minimum of 3 years after service completion.
+                            We retain personal information as long as necessary to provide services and comply with legal obligations. Vehicle transport records are maintained according to DOT requirements, typically for at least 3 years after service completion.
                         </p>
                     </div>
 
@@ -211,34 +223,11 @@
                         </p>
                         
                         <div class="bg-gray-50 rounded-lg p-6 space-y-3">
-                            <div class="flex items-center">
-                                <svg class="w-5 h-5 text-blue-500 mr-3" fill="currentColor" viewBox="0 0 24 24">
-                                    <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
-                                </svg>
-                                <span class="font-medium text-gray-900">Email:</span>
-                                <a href="mailto:dkxpressllc@gmail.com" class="text-blue-600 hover:text-blue-700 ml-2">dkxpressllc@gmail.com</a>
-                            </div>
-                            
-                            <div class="flex items-center">
-                                <svg class="w-5 h-5 text-blue-500 mr-3" fill="currentColor" viewBox="0 0 24 24">
-                                    <path d="M20.01 15.38c-1.23 0-2.42-.2-3.53-.56-.35-.12-.74-.03-1.01.24l-1.57 1.97c-2.83-1.35-5.48-3.9-6.89-6.83l1.95-1.66c.27-.28.35-.67.24-1.02-.37-1.11-.56-2.3-.56-3.53 0-.54-.45-.99-.99-.99H4.19C3.65 3 3 3.24 3 3.99 3 13.28 10.73 21 20.01 21c.71 0 .99-.63.99-1.18v-3.45c0-.54-.45-.99-.99-.99z"/>
-                                </svg>
-                                <span class="font-medium text-gray-900">Phone:</span>
-                                <span class="text-gray-700 ml-2">(630) 242-2090</span>
-                            </div>
-                            
-                            <div class="flex items-start">
-                                <svg class="w-5 h-5 text-blue-500 mr-3 mt-0.5" fill="currentColor" viewBox="0 0 24 24">
-                                    <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/>
-                                </svg>
-                                <div>
-                                    <span class="font-medium text-gray-900">Address:</span>
-                                    <div class="text-gray-700 ml-2">
-                                        DK Express LLC<br>
-                                        123 Transport Way<br>
-                                        CITY, STATE 12345
-                                    </div>
-                                </div>
+                            <div class="text-gray-700">
+                                <h4 class="font-semibold text-gray-900 mb-3">DK Express LLC</h4>
+                                <p>📧 <a href="mailto:dkxpressllc@gmail.com" class="text-blue-600 hover:text-blue-700">dkxpressllc@gmail.com</a></p>
+                                <p>📞 (630) 242-2090</p>
+                                <p>🏢 1147 Brook Forest Ave, Shorewood, IL 60404</p>
                             </div>
                         </div>
                     </div>
@@ -250,7 +239,7 @@
                     
                     <div class="space-y-4 mb-8">
                         <p class="text-gray-700 leading-relaxed">
-                            We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any material changes by posting the updated policy on our website and updating the "Last updated" date above.
+                            We may update this Privacy Policy periodically. Updates will be posted on our website with the "Last updated" date revised accordingly.
                         </p>
                     </div>
 
@@ -261,7 +250,7 @@
                     
                     <div class="space-y-4 mb-8">
                         <p class="text-gray-700 leading-relaxed">
-                            This Privacy Policy complies with applicable privacy laws and carrier requirements. We are committed to protecting your privacy while meeting all regulatory obligations in the car hauling and transportation industry.
+                            This Privacy Policy complies with applicable privacy laws and carrier requirements. DK Express LLC is committed to protecting your privacy while meeting all regulatory obligations in the car hauling and transportation industry.
                         </p>
                     </div>
 
